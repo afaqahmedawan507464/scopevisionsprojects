@@ -1,0 +1,2 @@
+# Laravel Scope Visions
+ 
